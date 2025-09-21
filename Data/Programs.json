@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Mechatronics",
+    "core_courses": [
+      {"1A":["CHE102", "MATH115", "MATH116", "MTE100", "MTE121"]},
+      {"1B":["MTE100B", "MTE111", "MATH118", "MTE119", "MTE140"]},
+      {"2A":["MTE182", "MTE200A", "MTE201", "MTE202", "MTE219", "MTE262"]},
+      {"2B":["MTE200B", "MTE203", "MTE204", "MTE220", "MTE241", "MTE252"]},
+      {"3A":["MTE300A", "MTE309", "MTE320", "MTE321", "MTE325", "MTE351"]},
+      {"3B":["MSE261", "MTE300B", "MTE322", "MTE352", "MTE360", "MTE380"]},
+      {"4A":["MTE400A", "MTE481", "MTE484"]},
+      {"4B":["MTE400B", "MTE482"]}
+    ],
+    "graduation_rules": {
+      "total_credits": 21.50,
+      "total_electives": 9,
+      "total_ethics_courses": 1,
+      "coop_requirements": true
+    },
+    "elective_rules": {
+      "techincal_required_electives": 5,
+      "complementary_studies_electives": {
+        "list_A": 1,
+        "list_C": 1,
+        "List_A/List_C/List_D": 2
+      }
+    }
+  },
+  {
+    "name": "Mechanical",
+    "core_courses": [
+      {"1A":["CHE102", "MATH115", "MATH116", "ME100", "PHYS115"]},
+      {"1B":["ME100B", "ME101", "MATH118", "ME115", "ME123"]},
+      {"2A":["ME200A", "ME201", "ME202", "ME219", "ME230", "ME269"]},
+      {"2B":["ME200B", "ME203", "ME212", "ME220", "ME250", "ME262"]},
+      {"3A":["ME300A", "ME303", "ME321", "ME340", "ME354", "ME351"]},
+      {"3B":["ME353", "ME300B", "ME322", "ME362", "ME360", "MSE261", "ME380"]},
+      {"4A":["ME400A", "GENE403, ME481", "MTE481"]},
+      {"4B":["ME400B", "GENE404", "ME482", "MTE482"]}
+    ],
+    "graduation_rules": {
+      "total_credits": 22.00,
+      "total_electives": 11,
+      "total_ethics_courses": 1,
+      "coop_requirements": true
+    },
+    "elective_rules": {
+      "techincal_required_electives": 7,
+      "complementary_studies_electives": {
+        "list_A": 1,
+        "list_C": 1,
+        "List_A/List_C/List_D": 2
+      }
+    }
+  },
+  {"name": "Software",
+    "core_courses": [
+      {"1A":["CSE101", "MATH115", "MATH116", "PHYS115", "CHE102"]},
+      {"1B":["CSE101B", "CSE102", "MATH118", "CSE110", "CSE120"]},
+      {"2A":["CSE200A", "CSE201", "CSE202", "CSE210", "CSE220", "MTE119"]},
+      {"2B":["CSE200B", "CSE203", "CSE212", "CSE230", "CSE240", "CSE250"]},
+      {"3A":["CSE300A", "CSE301", "CSE320", "CSE330", "CSE340", "CSE350"]},
+      {"3B":["CSE300B", "CSE302", "CSE310", "CSE315", "CSE360", "MSE261"]},
+      {"4A":["CSE400A", "GENE403, CSE481"]},
+      {"4B":["CSE400B", "GENE404, CSE482"]}
+    ],
+    "graduation_rules": {
+      "total_credits": 20.50,
+      "total_electives": 8,
+      "total_ethics_courses": 1,
+      "coop_requirements": true
+    },
+    "elective_rules": {
+      "techincal_required_electives": 4,
+      "complementary_studies_electives": {
+        "list_A": 1,
+        "list_C": 1,
+        "List_A/List_C/List_D": 2
+      }
+    }
+  }
+]
+
